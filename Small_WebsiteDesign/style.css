@@ -1,0 +1,19 @@
+.row .col-4 p a {
+    text-decoration: none;
+}
+
+.horizondal-line{
+    padding: 0px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.horizondal-line2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* gap: 10px; */
+}
+
